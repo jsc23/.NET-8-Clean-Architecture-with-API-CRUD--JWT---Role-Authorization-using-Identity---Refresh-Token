@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\infraestructure\\repos\\accounrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|solutionrelative:infraestructure\\repos\\accounrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD488C-A32A-4DC5-8890-B284E50EF52C}|Application\\Application.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD488C-A32A-4DC5-8890-B284E50EF52C}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D196A087-208B-4A25-9327-25BE8B1994A2}|API\\API.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D196A087-208B-4A25-9327-25BE8B1994A2}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\infraestructure\\migrations\\20240423161540_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|solutionrelative:infraestructure\\migrations\\20240423161540_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C70B48-B34E-4059-B950-CAB41C227380}|Infraestructure\\Infrastructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D196A087-208B-4A25-9327-25BE8B1994A2}|API\\API.csproj|c:\\users\\javia\\desktop\\crudcleanarchitecture\\crudcleanarchitecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D196A087-208B-4A25-9327-25BE8B1994A2}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:36:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccounRepository.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Repos\\AccounRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repos\\AccounRepository.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Repos\\AccounRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repos\\AccounRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:23:45.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:23:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240423161540_Second.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Migrations\\20240423161540_Second.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20240423161540_Second.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Migrations\\20240423161540_Second.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20240423161540_Second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:15:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:13:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:59:29.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

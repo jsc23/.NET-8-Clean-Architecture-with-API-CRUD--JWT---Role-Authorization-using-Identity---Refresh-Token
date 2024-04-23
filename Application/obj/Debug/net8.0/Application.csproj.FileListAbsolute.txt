@@ -1,0 +1,12 @@
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\bin\Debug\net8.0\Application.dll
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.dll
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\javia\Desktop\CrudCleanArchitecture\CrudCleanArchitecture\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
