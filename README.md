@@ -1,4 +1,5 @@
 CRUD API Project with .NET 8 and Clean Architecture
+
 This project is a CRUD (Create, Read, Update, Delete) API built using .NET 8 and adhering to the principles of Clean Architecture. It provides endpoints for managing resources with role-based JWT authorization.
 
 Table of Contents
